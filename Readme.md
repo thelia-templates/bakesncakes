@@ -23,6 +23,6 @@ You have 2 choices for installing this template :
 
 ## Screenshots
 
-![Bakesncakes home](assets/src/screenshots/home.jpg)
+![Bakesncakes home](assets/screenshots/home.png)
 
-![Bakesncakes product](assets/src/screenshots/product.jpg)
+![Bakesncakes product](assets/screenshots/product.png)
